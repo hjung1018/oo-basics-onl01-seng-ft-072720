@@ -1,1 +1,3 @@
-# Make your shoe class here!
+class Shoe
+  attr_accessible
+end
