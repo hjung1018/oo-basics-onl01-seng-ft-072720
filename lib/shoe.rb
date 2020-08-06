@@ -15,8 +15,4 @@ end
 
 
 
-#     it 'makes the shoe\'s condition new' do
-#       shoe.condition = "old"
-#       shoe.cobble
-#       expect(shoe.condition).to eq("new")
-#     end
+shoe.condition = "new"
