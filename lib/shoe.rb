@@ -10,6 +10,7 @@ class Shoe
   end
   
   
+  
 end
 
 # describe '#cobble' do
